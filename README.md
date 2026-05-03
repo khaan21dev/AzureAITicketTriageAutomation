@@ -103,9 +103,3 @@ Support teams handling high ticket volumes face a consistent problem — urgent 
 
 This system eliminates that delay. Critical tickets are identified and escalated in seconds, not minutes.
 
----
-
-## Author
-
-Built by Elkhan as part of AZ-104 Microsoft Azure Administrator certification preparation.
-
